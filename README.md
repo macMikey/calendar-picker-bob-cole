@@ -9,6 +9,7 @@ v. 1.0.1 05/12/18
 • Extended year range manually to 2025
 • Added notes
 • Expanded tab stops, calendar field, and moved other fields (LC9 rendering changes cause it to be unreadable)
+• I couldn't resist putting the button handlers into the card script to make it just a wee bit shorter.
 
 
 
